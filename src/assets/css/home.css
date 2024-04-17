@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+#home {
+    display: flex;
+    font-size: 120px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Platpyi', sans-serif;
+}
